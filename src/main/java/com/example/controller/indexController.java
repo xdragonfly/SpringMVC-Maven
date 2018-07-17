@@ -39,5 +39,8 @@ public class indexController {
 
         return "index";
     }
+    public String gitHub(){
+        return "";
+    }
 
 }
